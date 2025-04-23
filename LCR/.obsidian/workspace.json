@@ -1,52 +1,24 @@
 {
   "main": {
-    "id": "1ae2ed694b3a7187",
+    "id": "a1e67ce130620546",
     "type": "split",
     "children": [
       {
-        "id": "77f28ada355c2cc9",
+        "id": "798f1bab8ac27fe0",
         "type": "tabs",
         "children": [
           {
-            "id": "ba87a24e49357ca6",
+            "id": "e49e2751312a6730",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LCR/LCR中的评价指标/1. ASA 中的评价指标.md",
+                "file": "LCR中的评价指标/1. ASA 中的评价指标.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "1. ASA 中的评价指标"
-            }
-          },
-          {
-            "id": "8668c7c66668be5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LCR/LCR中的方法介绍/ASA中的方法细节/IR - VSM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IR - VSM"
-            }
-          },
-          {
-            "id": "259b9711c88ac98f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LCR/ASA/方法综述.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "方法综述"
             }
           }
         ]
@@ -55,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7e5670aab128087a",
+    "id": "f43030912576e0b8",
     "type": "split",
     "children": [
       {
-        "id": "4e553ed1f0814f85",
+        "id": "a859f648730b01e6",
         "type": "tabs",
         "children": [
           {
-            "id": "d17cbdb6bf2ca31c",
+            "id": "3ba98fabe76a25b7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -76,7 +48,7 @@
             }
           },
           {
-            "id": "e44740d13b66c819",
+            "id": "a4d26bf078753593",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -93,7 +65,7 @@
             }
           },
           {
-            "id": "3f9772d9a79aaf4e",
+            "id": "be31b44cb0f94c8e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -106,25 +78,25 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "f15822c7d167099c",
+    "id": "39f9086c0971192a",
     "type": "split",
     "children": [
       {
-        "id": "bfaef249ea7e5bb2",
+        "id": "608e2231a73f47e9",
         "type": "tabs",
         "children": [
           {
-            "id": "ff6299b7364bf6a8",
+            "id": "ed06e5a719d5da0a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LCR/ASA/方法综述.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "file": "LCR中的评价指标/1. ASA 中的评价指标.md",
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -132,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "方法综述 的反向链接列表"
+              "title": "1. ASA 中的评价指标 的反向链接列表"
             }
           },
           {
-            "id": "295bff99ed581e95",
+            "id": "f428b4162665ad2f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LCR/ASA/方法综述.md",
+                "file": "LCR中的评价指标/1. ASA 中的评价指标.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "方法综述 的出链列表"
+              "title": "1. ASA 中的评价指标 的出链列表"
             }
           },
           {
-            "id": "103df152f7263849",
+            "id": "5d0815636bd221b4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -165,32 +137,21 @@
             }
           },
           {
-            "id": "af2a2f4ce389521a",
+            "id": "54b362c309c5e0ff",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "LCR/ASA/方法综述.md",
-                "followCursor": true,
-                "showSearch": true,
+                "file": "LCR中的评价指标/1. ASA 中的评价指标.md",
+                "followCursor": false,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "方法综述 的大纲"
-            }
-          },
-          {
-            "id": "e5bd81495ee9cbfb",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "1. ASA 中的评价指标 的大纲"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -204,34 +165,9 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "ba87a24e49357ca6",
-  "lastOpenFiles": [
-    "LCR/LCR中的方法介绍/ASA中的方法细节/IR - VSM.md",
-    "LCR/LCR中的方法介绍/ASA中的方法细节/C1. lexical statistical ——N-gram, Skip-gram.md",
-    "abc.md",
-    "LCR/ASA/方法综述.md",
-    "LCR/LCR中的方法介绍/ASA中的方法细节/C2. hand-crafted —— Word Embeddings.md",
-    "LCR/LCR中的方法介绍/ASA中的方法细节/C2(续） BERT Embeddings.md",
-    "LCR/LCR中的方法介绍/ASA中的方法细节/IR - BM25.md",
-    "LCR/LCR中的评价指标/1. ASA 中的评价指标.md",
-    "LCR/LCR中的方法介绍/ASA中的方法细节/C3 TF-IDF.md",
-    "LCR/ASA/1 文章构架.md",
-    "LCR/ASA/语料库.md",
-    "LCR/LCR中的方法介绍/ASA中的方法细节",
-    "LCR/LCR中的方法介绍",
-    "LCR/ASA/评价指标.md",
-    "LCR/ASA/研究挑战.md",
-    "LCR/LCR中的评价指标/Accuracy@K.md",
-    "LCR/LCR中的评价指标",
-    "LCR/ASA",
-    "LCR/ASA",
-    "LCR",
-    "欢迎.md",
-    "创建链接.md",
-    "未命名.canvas"
-  ]
+  "active": "3ba98fabe76a25b7",
+  "lastOpenFiles": []
 }
