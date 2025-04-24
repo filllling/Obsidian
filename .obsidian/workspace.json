@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LCR/LCR中的方法介绍/ASA中的方法细节/未命名.md",
+                "file": "LCR/LCR中的方法介绍/ASA中的方法细节/D 注意力机制.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "D 注意力机制"
             }
           },
           {
@@ -209,10 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d17cbdb6bf2ca31c",
+  "active": "db018662a2e1a40c",
   "lastOpenFiles": [
     "LCR/LCR中的方法介绍/ASA中的方法细节/IR - BM25.md",
-    "LCR/LCR中的方法介绍/ASA中的方法细节/未命名.md",
+    "LCR/LCR中的方法介绍/ASA中的方法细节/D 注意力机制.md",
     "LCR/LCR中的评价指标/1. ASA 中的评价指标.md",
     "LCR/ASA/方法综述.md",
     "LCR/LCR中的方法介绍/ASA中的方法细节/C4.2 BERT.md",
