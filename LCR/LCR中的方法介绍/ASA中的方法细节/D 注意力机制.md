@@ -40,7 +40,9 @@
             - ".": 0.05
         - 这里“mat”权重最高，说明模型认为“cat”和“mat”的关系最重要（因为“cat on the mat”是一个关键短语）。
 4. **加权求和**：
-    - 用注意力权重对值向量 V V V 加权求和，生成“cat”的上下文向量： Outputcat=0.10⋅VThe+0.20⋅Vcat+0.12⋅Vis+0.18⋅Von+0.35⋅Vmat+0.05⋅V.\text{Output}_{\text{cat}} = 0.10 \cdot V_{\text{The}} + 0.20 \cdot V_{\text{cat}} + 0.12 \cdot V_{\text{is}} + 0.18 \cdot V_{\text{on}} + 0.35 \cdot V_{\text{mat}} + 0.05 \cdot V_{.}Outputcat​=0.10⋅VThe​+0.20⋅Vcat​+0.12⋅Vis​+0.18⋅Von​+0.35⋅Vmat​+0.05⋅V.​
+    - 用注意力权重对值向量 V V V 加权求和，生成“cat”的上下文向量： 
+      $Output_{cat} = 0.10  \cdot V_{The} + 0.20 \cdot V_{cat} $
+    -
     - 这个输出向量综合了“cat”与整个句子的关系，特别强调了“mat”的信息。
 5. **重复计算**：
     - 对每个单词（如"The", "is", "on"等）重复上述步骤，生成每个单词的上下文向量，形成新的表示矩阵。
