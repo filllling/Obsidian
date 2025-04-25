@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LCR/LCR中的方法介绍/ASA中的方法细节/D 注意力机制.md",
+                "file": "LCR/ASA/方法综述.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "D 注意力机制"
+              "title": "方法综述"
             }
           },
           {
@@ -211,18 +211,19 @@
   },
   "active": "db018662a2e1a40c",
   "lastOpenFiles": [
-    "LCR/LCR中的方法介绍/ASA中的方法细节/IR - BM25.md",
-    "LCR/LCR中的方法介绍/ASA中的方法细节/D 注意力机制.md",
-    "LCR/LCR中的评价指标/1. ASA 中的评价指标.md",
-    "LCR/ASA/方法综述.md",
     "LCR/LCR中的方法介绍/ASA中的方法细节/C4.2 BERT.md",
-    "LCR/LCR中的方法介绍/ASA中的方法细节/C3.3  Embedding of positon and segment.md",
+    "LCR/LCR中的方法介绍/ASA中的方法细节/C4.1 lstm.md",
     "LCR/LCR中的方法介绍/ASA中的方法细节/C3.2 BERT Embeddings.md",
+    "LCR/LCR中的方法介绍/ASA中的方法细节/C3.3  Embedding of positon and segment.md",
+    "LCR/LCR中的方法介绍/ASA中的方法细节/D 注意力机制.md",
+    "LCR/LCR中的方法介绍/ASA中的方法细节/IR - VSM.md",
+    "LCR/LCR中的方法介绍/ASA中的方法细节/IR - BM25.md",
+    "LCR/ASA/研究挑战.md",
+    "LCR/ASA/方法综述.md",
+    "LCR/LCR中的评价指标/1. ASA 中的评价指标.md",
     "LCR/LCR中的方法介绍/ASA中的方法细节/C3.1 Word Embeddings.md",
     "未命名.canvas",
-    "LCR/LCR中的方法介绍/ASA中的方法细节/IR - VSM.md",
     "未命名.md",
-    "LCR/LCR中的方法介绍/ASA中的方法细节/C4.1 lstm.md",
     "LCR/LCR中的方法介绍/ASA中的方法细节/C2 TF-IDF.md",
     "LCR/LCR中的方法介绍/ASA中的方法细节/C1. lexical statistical ——N-gram, Skip-gram.md",
     "abc.md",
@@ -231,7 +232,6 @@
     "LCR/LCR中的方法介绍/ASA中的方法细节",
     "LCR/LCR中的方法介绍",
     "LCR/ASA/评价指标.md",
-    "LCR/ASA/研究挑战.md",
     "LCR/LCR中的评价指标/Accuracy@K.md",
     "LCR/LCR中的评价指标",
     "LCR/ASA",
