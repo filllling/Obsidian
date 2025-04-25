@@ -17,10 +17,17 @@
 
 ### 自注意力机制步骤
 
-1. **计算查询（Query）、键（Key）和值（Value）向量**：
-    - 通过线性变换，将输入 X X X 映射为 Q Q Q、K K K、V V V： Q=XWQ,K=XWK,V=XWVQ = XW_Q, \quad K = XW_K, \quad V = XW_VQ=XWQ​,K=XWK​,V=XWV​ 其中 WQ W_Q WQ​、WK W_K WK​、WV W_V WV​ 是可学习的权重矩阵（假设输出维度仍为4）。
-        - 例如，"cat"的查询向量 Qcat Q_{\text{cat}} Qcat​、键向量 Kcat K_{\text{cat}} Kcat​、值向量 Vcat V_{\text{cat}} Vcat​ 是通过矩阵乘法生成的。
-2. **计算注意力分数**：
+#### 1. **生成 Query、Key、Value 向量**
+
+每个词的向量 $\mathbf{x}$ 通过三个不同的权重矩阵生成：
+- 查询（Query）：$\mathbf{Q} = \mathbf{X} \mathbf{W}_Q$
+- 键（Key）：$\mathbf{K} = \mathbf{X} \mathbf{W}_K$
+- 值（Value）：$\mathbf{V} = \mathbf{X} \mathbf{W}_V$
+
+其中，$\mathbf{W}_Q, \mathbf{W}_K, \mathbf{W}_V$ 是可学习的参数矩阵。
+
+> 例如，单词 "cat" 的查询向量为 $\mathbf{q}_{\text{cat}} = \mathbf{x}_{\text{cat}} \mathbf{W}_Q$
+1. **计算注意力分数**：
     - 对每个单词，计算它与其他单词的关联程度（通过点积）。以“cat”为例： Score(cat,The)=Qcat⋅KThe\text{Score}(\text{cat}, \text{The}) = Q_{\text{cat}} \cdot K_{\text{The}}Score(cat,The)=Qcat​⋅KThe​ Score(cat,cat)=Qcat⋅Kcat\text{Score}(\text{cat}, \text{cat}) = Q_{\text{cat}} \cdot K_{\text{cat}}Score(cat,cat)=Qcat​⋅Kcat​ ...
         - 假设得到的分数为：
             - "cat" 与 "The": 0.1
@@ -29,7 +36,7 @@
             - "cat" 与 "on": 0.4
             - "cat" 与 "mat": 0.8
             - "cat" 与 ".": 0.05
-3. **归一化（Softmax）**：
+2. **归一化（Softmax）**：
     - 将分数归一化为注意力权重，总和为1： Attention Weights=softmax([0.1,0.5,0.2,0.4,0.8,0.05])\text{Attention Weights} = \text{softmax}([0.1, 0.5, 0.2, 0.4, 0.8, 0.05])Attention Weights=softmax([0.1,0.5,0.2,0.4,0.8,0.05])
         - 假设结果为：
             - "The": 0.10
@@ -39,12 +46,12 @@
             - "mat": 0.35
             - ".": 0.05
         - 这里“mat”权重最高，说明模型认为“cat”和“mat”的关系最重要（因为“cat on the mat”是一个关键短语）。
-4. **加权求和**：
+3. **加权求和**：
     - 用注意力权重对值向量 V V V 加权求和，生成“cat”的上下文向量： 
       $\text{Output}_{\text{cat}} = 0.10 \cdot V_{\text{The}} + 0.20 \cdot V_{\text{cat}} + 0.12 \cdot V_{\text{is}} + 0.18 \cdot V_{\text{on}} + 0.35 \cdot V_{\text{mat}} + 0.05 \cdot V_{.}$
     -
     - 这个输出向量综合了“cat”与整个句子的关系，特别强调了“mat”的信息。
-5. **重复计算**：
+4. **重复计算**：
     - 对每个单词（如"The", "is", "on"等）重复上述步骤，生成每个单词的上下文向量，形成新的表示矩阵。
 
 ### 输出
