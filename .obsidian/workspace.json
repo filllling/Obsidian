@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LCR/PAPER-SCM/2 相关工作.md",
+                "file": "LCR/PAPER-SCM/3 konwledge complement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 相关工作"
+              "title": "3 konwledge complement"
             }
           }
         ],
@@ -211,8 +211,8 @@
   },
   "active": "259b9711c88ac98f",
   "lastOpenFiles": [
-    "LCR/PAPER-SCM/1 研究背景.md",
     "LCR/PAPER-SCM/2 相关工作.md",
+    "LCR/PAPER-SCM/1 研究背景.md",
     "LCR/PAPER-SCM/3 konwledge complement.md",
     "LCR/PAPER-ASA/语料库.md",
     "LCR/PAPER-ASA/方法综述.md",
