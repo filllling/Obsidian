@@ -211,9 +211,10 @@
   },
   "active": "259b9711c88ac98f",
   "lastOpenFiles": [
-    "LCR/PAPER-ASA/语料库.md",
-    "LCR/PAPER-SCM/2 相关工作.md",
     "LCR/PAPER-SCM/1 研究背景.md",
+    "LCR/PAPER-SCM/2 相关工作.md",
+    "LCR/PAPER-SCM/3 konwledge complement.md",
+    "LCR/PAPER-ASA/语料库.md",
     "LCR/PAPER-ASA/方法综述.md",
     "LCR/PAPER-SCM",
     "LCR/LCR中的方法介绍/ASA中的方法细节/IR - BM25.md",
