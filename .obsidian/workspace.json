@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LCR/PAPER-SCM/3.3  Extractor.md",
+                "file": "LCR/PAPER-SCM/4 实验思路.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.3  Extractor"
+              "title": "4 实验思路"
             }
           },
           {
@@ -191,15 +191,16 @@
   },
   "active": "ba87a24e49357ca6",
   "lastOpenFiles": [
-    "未命名.canvas",
     "LCR/PAPER-SCM/3.3  Extractor.md",
+    "LCR/PAPER-SCM/4 实验思路.md",
+    "LCR/PAPER-SCM/3.1 模型架构.md",
+    "LCR/PAPER-SCM/2 相关工作.md",
+    "LCR/PAPER-SCM/3.2 信息融合器.md",
+    "未命名.canvas",
     "LCR/LCR中的方法介绍/ASA中的方法细节/C4.1 lstm.md",
     "LCR/LCR中的方法介绍/ASA中的方法细节/C4.2 BERT.md",
     "LCR/LCR中的评价指标/1. ASA 中的评价指标.md",
-    "LCR/PAPER-SCM/3.2 信息融合器.md",
     "LCR/PAPER-ASA/语料库.md",
-    "LCR/PAPER-SCM/3.1 模型架构.md",
-    "LCR/PAPER-SCM/2 相关工作.md",
     "LCR/PAPER-SCM/4.1 知识融合器.md",
     "LCR/LCR中的方法介绍/ASA中的方法细节/C3.1 Word Embeddings.md",
     "Pasted image 20250425235459.png",
