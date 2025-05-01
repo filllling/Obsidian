@@ -37,30 +37,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transfomer/注意力机制.md",
+                "file": "Transfomer/Transfomer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "注意力机制"
+              "title": "Transfomer"
             }
           },
           {
-            "id": "7fbf67984bcba6fd",
+            "id": "b35ddfee3cfc3437",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nerual/神经网络.md",
+                "file": "DOC_IE/Event Extraction,事件抽取.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "神经网络"
+              "title": "Event Extraction,事件抽取"
+            }
+          },
+          {
+            "id": "e0fc36012ce4de30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOC_IE/Relation Extraction, 关系抽取.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Relation Extraction, 关系抽取"
+            }
+          },
+          {
+            "id": "73b236185ceca971",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nerual/鱼书总结.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "鱼书总结"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -201,12 +229,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,13 +246,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7fbf67984bcba6fd",
+  "active": "d17cbdb6bf2ca31c",
   "lastOpenFiles": [
+    "DOC_IE/Event Extraction,事件抽取.md",
+    "DOC_IE/Relation Extraction, 关系抽取.md",
     "Transfomer/Transfomer.md",
+    "未命名",
+    "DOC_IE",
+    "Transfomer/Pasted image 20250428194221.png",
     "Transfomer/注意力机制.md",
     "nerual/神经网络.md",
+    "nerual/鱼书总结.md",
     "nerual",
-    "Transfomer/Pasted image 20250428194221.png",
     "Transfomer/transformers.svg",
     "LCR/Pasted image 20250425235459.png",
     "Transfomer",
@@ -249,17 +281,12 @@
     "LCR/LCR中的方法介绍/ASA中的方法细节/C3.1 Word Embeddings.md",
     "LCR/LCR中的方法介绍/ASA中的方法细节/C3.2 BERT Embeddings.md",
     "LCR/LCR中的方法介绍/ASA中的方法细节/C3.3  Embedding of positon and segment.md",
-    "LCR/LCR中的方法介绍/ASA中的方法细节/C2 TF-IDF.md",
-    "LCR/PAPER-ASA/方法综述.md",
-    "LCR/PAPER-ASA/1 文章构架.md",
     "CG - EVAL",
     "CG - EVAL",
     "未命名.canvas",
     "LCR/PAPER-SCM",
     "LCR/LCR中的方法介绍/ASA中的方法细节",
     "LCR/LCR中的方法介绍",
-    "LCR/LCR中的评价指标",
-    "LCR/PAPER-ASA",
-    "LCR/PAPER-ASA"
+    "LCR/LCR中的评价指标"
   ]
 }
