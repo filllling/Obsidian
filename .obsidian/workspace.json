@@ -44,9 +44,23 @@
               "icon": "lucide-file",
               "title": "Relation Extraction, 关系抽取"
             }
+          },
+          {
+            "id": "30fa37538dc02729",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "flight.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "flight"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -205,11 +219,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "00f3918cd20c5344",
+  "active": "30fa37538dc02729",
   "lastOpenFiles": [
+    "DOC_IE/Relation Extraction, 关系抽取.md",
+    "flight.md",
+    "未命名.canvas",
     "DOC_IE/Event Extraction,事件抽取.md",
     "DOC_IE/2022.md",
-    "DOC_IE/Relation Extraction, 关系抽取.md",
     "未命名",
     "Transfomer/Transfomer.md",
     "nerual/鱼书总结.md",
@@ -239,10 +255,8 @@
     "LCR/LCR中的方法介绍/ASA中的方法细节/C4.1 lstm.md",
     "LCR/LCR中的方法介绍/ASA中的方法细节/D 注意力机制.md",
     "LCR/LCR中的方法介绍/ASA中的方法细节/C3.1 Word Embeddings.md",
-    "LCR/LCR中的方法介绍/ASA中的方法细节/C3.2 BERT Embeddings.md",
     "CG - EVAL",
     "CG - EVAL",
-    "未命名.canvas",
     "LCR/PAPER-SCM",
     "LCR/LCR中的方法介绍/ASA中的方法细节",
     "LCR/LCR中的方法介绍",
