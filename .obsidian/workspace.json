@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "benchmark expert—level/你好.md",
+                "file": "benchmark expert—level/medx - qa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "你好"
+              "title": "medx - qa"
             }
           }
         ],
@@ -225,7 +225,7 @@
     "未命名 2",
     "未命名 1",
     "flight.md",
-    "benchmark expert—level/你好.md",
+    "benchmark expert—level/medx - qa.md",
     "benchmark expert—level",
     "DOC_IE/Relation Extraction, 关系抽取.md",
     "未命名.canvas",
