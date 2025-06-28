@@ -8,4 +8,8 @@
 
 
 
-##  零样本链式推理（Zero-Shot CoT Prompting）
+##  question：
+- reasoning understanding
+- zore_shot 或 few_shot
+- ao 和 cot
+
