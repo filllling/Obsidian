@@ -8,7 +8,7 @@
 
 
 
-##  question：
+##  Key：
 - reasoning understanding
 - zore_shot 或 few_shot
 - ao 和 cot
