@@ -65,13 +65,13 @@
 
 ### 💡 类型举例：
 
-|错误类型|意义|
-|---|---|
-|Reasoning Process Error|逻辑推理链条有误|
-|Lack of Medical Knowledge|基础知识不够|
-|Perceptual Error|图像或图表理解错（多模态）|
-|Formatting Error|格式错误，导致无法提取答案|
-|Question Understanding Error|问题理解偏差导致选错|
+| 错误类型                         | 意义            |
+| ---------------------------- | ------------- |
+| Reasoning Process Error      | 逻辑推理链条有误      |
+| Lack of Medical Knowledge    | 基础知识不够        |
+| Perceptual Error             | 图像或图表理解错（多模态） |
+| Formatting Error             | 格式错误，导致无法提取答案 |
+| Question Understanding Error | 问题理解偏差导致选错    |
 
 ---
 
