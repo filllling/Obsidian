@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "benchmark expert—level/1. medx - qa.md",
+                "file": "benchmark expert—level/metric.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. medx - qa"
+              "title": "metric"
             }
           }
         ],
@@ -253,12 +253,12 @@
   },
   "active": "1de3c85355b43aae",
   "lastOpenFiles": [
+    "benchmark expert—level/prompt.md",
+    "benchmark expert—level/metric.md",
+    "benchmark expert—level/1. medx - qa.md",
     "DOC_IE/Relation Extraction, 关系抽取.md",
     "LCR/PAPER-ASA/评价指标.md",
-    "benchmark expert—level/1. medx - qa.md",
-    "benchmark expert—level/metric.md",
     "benchmark expert—level/data.md",
-    "benchmark expert—level/prompt.md",
     "().md",
     "未命名",
     "未命名 2",
