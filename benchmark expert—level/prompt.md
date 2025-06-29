@@ -10,11 +10,11 @@
 
 ### 1️⃣ 系统角色定义（System Role）
 
-|类型|默认值|数据集特化|模型特化|
-|---|---|---|---|
-|`zero_shot_system_role`|"You are a helpful assistant."|医学类数据集：设为 `"You are a helpful medical assistant."`||
-|`zero_shot_ao_system_role`|"Please answer only."|若模型名包含 `"qvq"`，设为 `"You are a helpful medical assistant."`||
-|`few_shot_system_role`|"Follow the given examples and answer the question."|固定||
+| 类型                         | 默认值                                                  | 数据集特化                                                      | 模型特化 |
+| -------------------------- | ---------------------------------------------------- | ---------------------------------------------------------- | ---- |
+| `zero_shot_system_role`    | "You are a helpful assistant."                       | 医学类数据集：设为 `"You are a helpful medical assistant."`         |      |
+| `zero_shot_ao_system_role` | "Please answer only."                                | 若模型名包含 `"qvq"`，设为 `"You are a helpful medical assistant."` |      |
+| `few_shot_system_role`     | "Follow the given examples and answer the question." | 固定                                                         |      |
 
 ---
 

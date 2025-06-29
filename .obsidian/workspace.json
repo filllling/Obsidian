@@ -121,12 +121,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "metric.md",
+                "file": "benchmark expert—level/prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "metric"
+              "title": "prompt"
             }
           }
         ],
