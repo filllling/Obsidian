@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "机器学习/机器学习.md",
+                "file": "LCR/LCR中的评价指标/1. ASA 中的评价指标.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "机器学习"
+              "title": "1. ASA 中的评价指标"
             }
           }
         ]
@@ -182,8 +182,9 @@
   },
   "active": "c01f84abef95fafd",
   "lastOpenFiles": [
-    "机器学习/未命名.md",
+    "LCR/LCR中的方法介绍/ASA中的方法细节/C2 TF-IDF.md",
     "机器学习/机器学习.md",
+    "机器学习/未命名.md",
     "benchmark expert—level/1. medx - qa.md",
     "benchmark expert—level/data.md",
     "机器学习",
@@ -218,7 +219,6 @@
     "LCR/PAPER-SCM/3.1 模型架构.md",
     "LCR/PAPER-ASA/SOTA.md",
     "LCR/PAPER-SCM/2 相关工作.md",
-    "LCR/PAPER-SCM/1 研究背景.md",
     "CG - EVAL",
     "CG - EVAL",
     "LCR/PAPER-SCM"
