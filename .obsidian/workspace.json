@@ -180,8 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c01f84abef95fafd",
+  "active": "d17cbdb6bf2ca31c",
   "lastOpenFiles": [
+    "LCR/LCR中的评价指标/1. ASA 中的评价指标.md",
+    "数据结构/数组存储的线性表‘/1.c.md",
+    "数据结构/数组存储的线性表‘",
     "LCR/LCR中的方法介绍/ASA中的方法细节/C2 TF-IDF.md",
     "机器学习/机器学习.md",
     "机器学习/未命名.md",
@@ -193,7 +196,7 @@
     "DOC_IE/Relation Extraction, 关系抽取.md",
     "LCR/PAPER-ASA/评价指标.md",
     "().md",
-    "未命名",
+    "数据结构",
     "未命名 2",
     "flight.md",
     "benchmark expert—level",
@@ -217,10 +220,7 @@
     "LCR/PAPER-SCM/4 实验思路.md",
     "LCR/LCR中的评价指标/2. SCM.md",
     "LCR/PAPER-SCM/3.1 模型架构.md",
-    "LCR/PAPER-ASA/SOTA.md",
-    "LCR/PAPER-SCM/2 相关工作.md",
     "CG - EVAL",
-    "CG - EVAL",
-    "LCR/PAPER-SCM"
+    "CG - EVAL"
   ]
 }
