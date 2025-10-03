@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "226be263b5197da3",
+        "id": "e5a80a3d0586cc2c",
         "type": "tabs",
         "children": [
           {
-            "id": "c01f84abef95fafd",
+            "id": "e4d7de5b24bdd099",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LCR/LCR中的评价指标/1. ASA 中的评价指标.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1. ASA 中的评价指标"
+              "title": "新标签页"
             }
           }
         ]
